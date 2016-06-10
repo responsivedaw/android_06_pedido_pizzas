@@ -111,4 +111,8 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://www.georss.org/georss" />
+    <ignored-resource url="http://www.w3.org/2005/Atom" />
+  </component>
 </application>
